@@ -1,0 +1,6 @@
+echo "# CodeWars" >> 8kyu
+git init
+git add 8kyu
+git commit -m "first commit"
+git remote add origin https://github.com/Barry1138/CodeWars.git
+git push -u origin master
